@@ -1,0 +1,2 @@
+# LTAM
+LTAM formulas demo.
