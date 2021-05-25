@@ -1,2 +1,2 @@
-# LTAM
-LTAM formulas demo.
+# STAM
+STAM formulas demo.
